@@ -3,7 +3,7 @@ console.log("JavaScript file is linked correctly!");
     window.addEventListener("DOMContentLoaded", () => {
         if (typeof Typed !== "undefined") {
             new Typed("#typed", {
-                strings: [" Shopify Developer", "Web Enthusiast", "Problem Solver"],
+                strings: [" Shopify Wizard", "Problem Solver", "Clear Communicator", "Web Enthusiast"],
                 typeSpeed: 50,
                 backSpeed: 30,
                 loop: true
