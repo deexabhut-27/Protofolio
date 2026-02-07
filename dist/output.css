@@ -871,10 +871,6 @@ a:active {
   width: 3rem;
 }
 
-.w-2 {
-  width: 0.5rem;
-}
-
 .w-6 {
   width: 1.5rem;
 }
@@ -949,10 +945,6 @@ a:active {
 
 .place-items-center {
   place-items: center;
-}
-
-.items-start {
-  align-items: flex-start;
 }
 
 .items-center {
@@ -1054,11 +1046,6 @@ a:active {
 .bg-gray-700 {
   --tw-bg-opacity: 1;
   background-color: rgb(55 65 81 / var(--tw-bg-opacity, 1));
-}
-
-.bg-lime-400 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(163 230 53 / var(--tw-bg-opacity, 1));
 }
 
 .bg-lime-400\/10 {
